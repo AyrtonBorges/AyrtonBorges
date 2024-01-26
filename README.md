@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23FF0000.svg?style=flat-square&logo=Java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Java-%23FF0000.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   </a>
   <!--
   <a href="https://aws.amazon.com/" target="_blank">
