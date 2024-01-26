@@ -35,6 +35,16 @@
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-%23FF0000.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++">
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-%777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  </a>
+
   <!--
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
