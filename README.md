@@ -132,13 +132,13 @@ Instruções: https://github.com/Platane/snk
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <!-- <td width="50%">
       <h3>G3E — Labs (IoT & 3D)</h3>
       <p>Projetos de eletrônica/IoT (ESP32/Arduino), APIs Node para imagens e automação, além de design/ impressão 3D (protótipos e luminárias).</p>
       <p>
         <a href="#" target="_blank">🔗 Repositório</a>
       </p>
-    </td>
+    </td> -->
     <td width="50%">
       <h3>DevOps Tooling</h3>
       <p>Templates de Docker Compose, pipelines Jenkins, GitHub Actions e segurança (Helmet/BCrypt/Headers) para apps Node/Laravel.</p>
