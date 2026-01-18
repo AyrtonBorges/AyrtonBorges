@@ -23,13 +23,13 @@
     <img alt="Total de Stars" src="https://img.shields.io/github/stars/AyrtonBorges?style=for-the-badge">
   </a>
   <!-- Substitua os links abaixo pelos seus -->
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/ayrton-borges-620aa1168/" title="LinkedIn">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:#" title="E-mail">
     <img alt="E-mail" src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="#" title="Portfólio">
+  <a href="https://ayrtonborges.github.io/Meu-Portfolio/" title="Portfólio">
     <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
