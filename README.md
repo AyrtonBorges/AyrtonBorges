@@ -1,193 +1,171 @@
-<!--
-  Perfil do GitHub — Ayrton Borges
-  Dicas:
-  1) Este README fica no repositório com o mesmo nome do seu usuário: AyrtonBorges/AyrtonBorges
-  2) Edite os links marcados com "#" e os nomes de repositório nos "Projetos em destaque".
-  3) Caso use WakaTime / Snake / Activity Graph, siga as instruções nos comentários.
--->
-
-<h1 align="center">Olá, eu sou o Ayrton! 👋</h1>
+<h1 align="center">Olá, eu sou o Ayrton Borges 👋</h1>
 
 <p align="center">
-  <em>Eng. de Computação • Full Stack • DevOps • IoT • Laravel/Node/React Native • Jenkins & n8n • Projetos PQFL e Dev para Indústria</em>
+  <strong>Desenvolvimento Backend · Arquitetura de Software · DevOps</strong><br>
+  Bacharel em Engenharia de Computação pelo Instituto Federal Fluminense
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=AyrtonBorges">
-    <img alt="Contador de visitas" src="https://komarev.com/ghpvc/?username=AyrtonBorges&color=blueviolet&style=for-the-badge&label=VISITAS">
-  </a>
-  <a href="https://github.com/AyrtonBorges?tab=followers">
-    <img alt="Seguidores" src="https://img.shields.io/github/followers/AyrtonBorges?style=for-the-badge">
-  </a>
-  <a href="https://github.com/AyrtonBorges?tab=repositories&sort=stargazers">
-    <img alt="Total de Stars" src="https://img.shields.io/github/stars/AyrtonBorges?style=for-the-badge">
-  </a>
-  <!-- Substitua os links abaixo pelos seus -->
-  <a href="https://www.linkedin.com/in/ayrton-borges-620aa1168/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/ayrton-borges-620aa1168/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:#" title="E-mail">
-    <img alt="E-mail" src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:ayrton.borges27@gmail.com">
+    <img alt="E-mail" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://ayrtonborges.github.io/Meu-Portfolio/" title="Portfólio">
-    <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white">
+  <a href="https://ayrtonborges.github.io/Meu-Portfolio/">
+    <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-2998B9?style=for-the-badge&logo=githubpages&logoColor=white">
   </a>
 </p>
 
----
+## Sobre mim
 
-## 🧭 Sobre mim
+Sou desenvolvedor Fullstack com foco em **backend, arquitetura de software e DevOps**. Trabalho com plataformas SaaS em **PHP e Laravel**, desenvolvendo módulos de negócio, integrações com APIs, processamento assíncrono e controle de acesso.
 
-- 🚀 **Full Stack** com foco em **Laravel (PHP)**, **Node.js/Express**, **React/React Native (Expo)** e **automação DevOps** (Jenkins, Docker, n8n).
-- 🧪 Experiência em **qualidade de software**, **CI/CD**, **segurança** e **infra** (Linux, VPS, redes).
-- 🧭 Projetos de impacto: **PQFL** (Plano de Qualificação de Fornecedores de Leite — MAPA IN 76/77), **Vitrine da Restauração** e **G3E** (Group of 3 Engineers).
-- 📚 Curto Lean/Agile (Scrum, Kanban, Scrumban), Design de Produto e métricas (AARRR, NSM).
-- 🌎 Aberto a **freelas/remoto** e colaborações internacionais.
+Também atuo na infraestrutura que sustenta essas aplicações: pipelines de CI/CD, ambientes de staging e produção, automação de configurações e segurança de acesso. Na **x99.cloud**, contribuo com **Terraform, Ansible, Kubernetes/RKE2 e Helm**.
 
----
+Minha trajetória inclui produtos educacionais com gamificação, monitoramento ambiental e sistemas para o setor agropecuário. Gosto de entender o problema, implementar a solução e acompanhar como ela funciona em produção.
 
-## 🧰 Tech Stack
+- 📍 Bom Jesus do Itabapoana, RJ, Brasil.
+- 🎓 Bacharel em Engenharia de Computação e Técnico em Informática pelo IFF.
+- 🛠️ Experiência com desenvolvimento independente e projetos de pesquisa e extensão.
+- 🌎 Interesse em trabalho remoto, projetos freelance e colaboração internacional.
 
-<p align="center">
-  <!-- Linguagens -->
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=111">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+## Tecnologias
+
+### Backend e dados
+
+<p>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <br/>
-  <!-- Web -->
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <br/>
-  <!-- Banco/Cloud -->
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-2F6792?style=for-the-badge&logo=postgresql&logoColor=white">
-  <!-- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> -->
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+APIs HTTP, modelagem de dados, filas e jobs, RBAC, arquitetura MVCS e Repository Pattern. Experiência com **Spatie Permission**, **Laravel Fortify** e integração com **ODK Central**.
+
+### DevOps e infraestrutura
+
+<p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img alt="n8n" src="https://img.shields.io/badge/n8n.io-FE2C55?style=for-the-badge&logo=n8n&logoColor=white">
-  <br/>
-  <!-- Outros -->
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white">
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 </p>
 
----
+CI/CD, infraestrutura como código, clusters **RKE2**, certificados SSH com **step-ca**, gestão de identidade com **Keycloak**, backups e documentação operacional.
 
-## 🏆 Troféus & Métricas
+### Qualidade de software
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyrtonBorges&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" alt="Troféus do GitHub"/>
+**Pest**, **Laravel Dusk**, **Larastan/PHPStan** e **Laravel Pint** para testes, análise estática e padronização de código. Documentação com PHPDoc e tipagem.
+
+### Outras tecnologias com que trabalho ou já desenvolvi projetos
+
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyrtonBorges&show_icons=true&theme=bear&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyrtonBorges&theme=dark&hide_border=true" height="150" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonBorges&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Langs"/>
+## Experiência atual
+
+### x99.cloud · DevOps e infraestrutura
+
+Contribuo para a automação e manutenção da infraestrutura da empresa, com atuação em:
+
+- **Infraestrutura como código:** configurações com Terraform e Ansible para ambientes de clusters RKE2.
+- **CI/CD:** pipelines para validar alterações de infraestrutura e apoiar entregas reproduzíveis.
+- **Segurança de acesso:** implementação de infraestrutura de certificados SSH com step-ca e atividades de atualização do Keycloak.
+- **Kubernetes:** evolução de Helm charts, configuração de variáveis de ambiente do backend e documentação de implantação.
+- **Operação:** procedimentos de suporte, gestão de IPs e reinstalação de ambientes.
+
+## Projetos em destaque
+
+### 🎓 Stemwise · Educação e gamificação
+
+Plataforma SaaS educacional em Laravel. Minhas contribuições incluem:
+
+- Desenvolvimento do sistema de **pontos, níveis, conquistas e rankings**.
+- Migração do controle de acesso para permissões com **Spatie Permission**.
+- Autenticação em dois fatores com **Laravel Fortify**.
+- CI/CD com **Jenkins**, testes, deploy incremental, backups e ambiente de staging.
+- Testes de ponta a ponta com **Laravel Dusk**.
+
+### 🌱 Eu Monitoro · Monitoramento ambiental
+
+SaaS em Laravel com arquitetura **MVCS e Repository Pattern**, integrando coleta de dados e processamento assíncrono.
+
+- Integração bidirecional com **ODK Central** por meio de um cliente HTTP próprio.
+- Pipeline assíncrono com **nove jobs em fila**.
+- Controle de acesso com **mais de 40 permissões granulares**.
+- Onboarding por **QR Code** e enriquecimento taxonômico via API externa.
+- CI/CD com **Jenkins** e suporte a ambiente de staging.
+- Testes com Pest, análise estática e padronização de código.
+
+### 🥛 PQFL · Qualificação de fornecedores de leite
+
+Projeto desenvolvido no IFF em parceria com a cooperativa **CAVIL**, voltado à gestão do Plano de Qualificação de Fornecedores de Leite.
+
+- Modelagem e criação do banco de dados.
+- Módulo de gestão de produtores no software desktop em **Java**.
+- Aplicativo móvel em **React Native**.
+- API em **Laravel** para comunicação entre o aplicativo e o banco de dados.
+- Trabalho com **Scrumban** e práticas de **Extreme Programming**.
+
+### 🌳 Vitrine da Restauração · Gestão de atividades e curadoria
+
+Participação no desenvolvimento de um sistema Laravel para um projeto de reflorestação.
+
+- Autenticação, gestão de usuários, papéis e permissões.
+- Módulo de curadoria com interface de gestão de recursos.
+- Pipeline **Jenkins** com backups via SFTP, dumps automáticos do MySQL, preparação de ambiente e deploy com aprovação.
+
+<p>
+  <a href="https://ayrtonborges.github.io/Meu-Portfolio/">Conheça meu portfólio</a> ·
+  <a href="https://github.com/AyrtonBorges?tab=repositories">Explore meus repositórios públicos</a>
 </p>
 
-<!-- Opcional: Gráfico de atividade (precisa estar online) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyrtonBorges&theme=github-dark&hide_border=true" alt="Activity Graph"/>
-</p>
+## Formação
 
-<!-- Opcional: Cobra/Snake de contribuições (exige GitHub Action no seu repo)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AyrtonBorges/AyrtonBorges/output/snake.svg" alt="Snake animation"/>
-</p>
-Instruções: https://github.com/Platane/snk
--->
-
----
-
-## 🚀 Projetos em destaque
-
-> 🔖 Substitua pelos seus repositórios reais ou mantenha como portfólio temático.
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>PQFL — Gestão da Qualidade do Leite</h3>
-      <p>Sistema full-stack (Laravel API + React Native) para apoiar técnicos de campo e setor de qualidade (MAPA IN 76/77). Inclui offline-first, sync seletivo e dashboards.</p>
-      <p>
-        <a href="#" target="_blank">🔗 Repositório</a> ·
-        <a href="#" target="_blank">📄 Docs</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Vitrine da Restauração</h3>
-      <p>Plataforma Laravel 11 com curadoria, papéis e permissões, CI/CD em Jenkins e integrações com n8n. Foco em performance e segurança.</p>
-      <p>
-        <a href="#" target="_blank">🔗 Repositório</a> ·
-        <a href="#" target="_blank">🌐 Demo</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <!-- <td width="50%">
-      <h3>G3E — Labs (IoT & 3D)</h3>
-      <p>Projetos de eletrônica/IoT (ESP32/Arduino), APIs Node para imagens e automação, além de design/ impressão 3D (protótipos e luminárias).</p>
-      <p>
-        <a href="#" target="_blank">🔗 Repositório</a>
-      </p>
-    </td> -->
-    <td width="50%">
-      <h3>DevOps Tooling</h3>
-      <p>Templates de Docker Compose, pipelines Jenkins, GitHub Actions e segurança (Helmet/BCrypt/Headers) para apps Node/Laravel.</p>
-      <p>
-        <a href="#" target="_blank">🔗 Repositório</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- Cards de repositórios fixados (troque owner/repo) 
-<p align="center">
-  <a href="https://github.com/AyrtonBorges/NOME_DO_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonBorges&repo=NOME_DO_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/AyrtonBorges/NOME_DO_REPO2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonBorges&repo=NOME_DO_REPO2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
--->
-
----
-
-## 📌 Roadmap & Aprendizados Recentes
-
-- 🔒 Segurança web (CSP, headers, auth, OWASP Top 10)
-- 🧪 Testes (Dusk, Jest, PHPUnit) e observabilidade
-- 🐳 Infra como código, pipelines avançados e automações n8n
-- 📱 RN/Expo com sync de dados e cache offline
-- 🧠 Leitura contínua: *Lean Startup*, *Blue Ocean Strategy*, *Hooked*, *Crossing the Chasm*
-
----
-
-## 🤝 Vamos colaborar?
-
-- Se você curte **produtos robustos**, **dados confiáveis** e **deploy sem drama**, me chama!
-- Trabalhos: **freela**, **remoto**, **parcerias**.
-- **Contato:** [Abra uma issue no meu perfil](https://github.com/AyrtonBorges) ou use os botões no topo.
-
----
+| Formação | Instituição | Período |
+| --- | --- | --- |
+| Bacharelado em Engenharia de Computação | Instituto Federal Fluminense, Campus Bom Jesus do Itabapoana | 2020–2026 |
+| Técnico em Informática | Instituto Federal Fluminense, Campus Bom Jesus do Itabapoana | 2018–2019 |
 
 <details>
-  <summary>⚙️ Dicas rápidas de uso (clique para expandir)</summary>
+  <summary><strong>Cursos complementares</strong></summary>
 
-- Se aparecerem erros de CORS/limite nas imagens de métricas, troque os temas/ provedores (comentados neste README).
-- Para o gráfico de atividade: usa `github-readme-activity-graph`; edite `username` e o tema.
-- Para a Snake: configure a Action do `Platane/snk` (link nas instruções acima).
-- Para WakaTime (tempo de código), adicione:
-  
-  ```md
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+- **Cisco CCNAv7 (2021):** Introduction to Networks, Switching, Routing and Wireless Essentials, Enterprise Networking, Security and Automation.
+- **freeCodeCamp (2024):** JavaScript e HTML/CSS.
+- **freeCodeCamp (2025):** Information Security.
+- **FIAP (2025):** Cloud Fundamentals, Administration and Solution Architect.
+- **Cisco (2026):** Introduction to Cybersecurity.
+- **Udemy (2026):** Jenkins: Beginner to Pro, CI/CD Pipelines.
+
+</details>
+
+## Estudos e interesses
+
+- Automação de infraestrutura, segurança de acesso e evolução de pipelines de entrega.
+- Integrações e automações com **n8n** e aplicações de IA em fluxos de trabalho.
+- Arquitetura e qualidade de software, com atenção à manutenção e operação das aplicações.
+- **Bitcoin e Lightning Network:** estudo de papers e materiais técnicos para entender os fundamentos do Bitcoin, a lógica da rede e os canais de pagamento da Lightning. Ainda não trabalhei profissionalmente com essas tecnologias.
+
+## Vamos conversar?
+
+Tenho interesse em projetos de backend, plataformas SaaS e automação de infraestrutura. Para oportunidades ou colaborações, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/ayrton-borges-620aa1168/) ou pelo [e-mail](mailto:ayrton.borges27@gmail.com).
+
+<p align="center">
+  <a href="https://github.com/AyrtonBorges?tab=repositories"><strong>Repositórios públicos</strong></a> ·
+  <a href="https://ayrtonborges.github.io/Meu-Portfolio/"><strong>Portfólio</strong></a> ·
+  <a href="https://www.linkedin.com/in/ayrton-borges-620aa1168/"><strong>LinkedIn</strong></a>
+</p>
