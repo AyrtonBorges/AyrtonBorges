@@ -105,7 +105,7 @@ Contribuo para a automação e manutenção da infraestrutura da empresa, com at
 ## 🏆 Troféus & Métricas
 
 <p align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=AyrtonBorges&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" alt="Troféus do GitHub — serviço externo temporariamente indisponível se a imagem não carregar"/>
+  <img src="https://trophy.ryglcloud.net/?username=AyrtonBorges&amp;theme=dracula&amp;no-bg=true&amp;no-frame=true&amp;row=1&amp;column=7" alt="Troféus do GitHub"/>
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ Contribuo para a automação e manutenção da infraestrutura da empresa, com at
 
 <!-- Opcional: Gráfico de atividade (precisa estar online) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyrtonBorges&theme=github-dark&hide_border=true&area=true&v=2" alt="Gráfico de atividade — serviço externo temporariamente indisponível se a imagem não carregar"/>
+  <img src="https://ghchart.rshah.org/2998b9/AyrtonBorges" alt="Gráfico anual de contribuições do GitHub"/>
 </p>
 
 <!-- Opcional: Cobra/Snake de contribuições (exige GitHub Action no seu repo)
