@@ -122,9 +122,9 @@ Contribuo para a automação e manutenção da infraestrutura da empresa, com at
 <!-- Opcional: Cobra/Snake de contribuições (exige GitHub Action no seu repo)
 Instruções: https://github.com/Platane/snk
 -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/AyrtonBorges/AyrtonBorges/output/snake.svg" alt="Snake animation"/>
-</p>
+</p> -->
 
 
 
