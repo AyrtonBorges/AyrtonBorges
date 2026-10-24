@@ -115,16 +115,17 @@ Contribuo para a automação e manutenção da infraestrutura da empresa, com at
 </p>
 
 <!-- Opcional: Gráfico de atividade (precisa estar online) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghchart.rshah.org/2998b9/AyrtonBorges" alt="Gráfico anual de contribuições do GitHub"/>
-</p>
+</p> -->
 
 <!-- Opcional: Cobra/Snake de contribuições (exige GitHub Action no seu repo)
+Instruções: https://github.com/Platane/snk
+-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/AyrtonBorges/AyrtonBorges/output/snake.svg" alt="Snake animation"/>
 </p>
-Instruções: https://github.com/Platane/snk
--->
+
 
 
 ## Projetos em destaque
