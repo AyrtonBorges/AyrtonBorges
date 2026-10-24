@@ -6,6 +6,15 @@
 </p>
 
 <p align="center">
+  <a href="https://komarev.com/ghpvc/?username=AyrtonBorges">
+    <img alt="Contador de visitas" src="https://komarev.com/ghpvc/?username=AyrtonBorges&color=blueviolet&style=for-the-badge&label=VISITAS">
+  </a>
+  <a href="https://github.com/AyrtonBorges?tab=followers">
+    <img alt="Seguidores" src="https://img.shields.io/github/followers/AyrtonBorges?style=for-the-badge">
+  </a>
+  <a href="https://github.com/AyrtonBorges?tab=repositories&sort=stargazers">
+    <img alt="Total de Stars" src="https://img.shields.io/github/stars/AyrtonBorges?style=for-the-badge">
+  </a>
   <a href="https://www.linkedin.com/in/ayrton-borges-620aa1168/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -53,6 +62,7 @@ APIs HTTP, modelagem de dados, filas e jobs, RBAC, arquitetura MVCS e Repository
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
@@ -71,8 +81,12 @@ CI/CD, infraestrutura como código, clusters **RKE2**, certificados SSH com **st
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
@@ -87,6 +101,31 @@ Contribuo para a automação e manutenção da infraestrutura da empresa, com at
 - **Segurança de acesso:** implementação de infraestrutura de certificados SSH com step-ca e atividades de atualização do Keycloak.
 - **Kubernetes:** evolução de Helm charts, configuração de variáveis de ambiente do backend e documentação de implantação.
 - **Operação:** procedimentos de suporte, gestão de IPs e reinstalação de ambientes.
+
+## 🏆 Troféus & Métricas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyrtonBorges&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" alt="Troféus do GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyrtonBorges&show_icons=true&theme=bear&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyrtonBorges&theme=dark&hide_border=true" height="150" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonBorges&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Langs"/>
+</p>
+
+<!-- Opcional: Gráfico de atividade (precisa estar online) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyrtonBorges&theme=github-dark&hide_border=true" alt="Activity Graph"/>
+</p>
+
+<!-- Opcional: Cobra/Snake de contribuições (exige GitHub Action no seu repo)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AyrtonBorges/AyrtonBorges/output/snake.svg" alt="Snake animation"/>
+</p>
+Instruções: https://github.com/Platane/snk
+-->
+
 
 ## Projetos em destaque
 
@@ -134,6 +173,12 @@ Participação no desenvolvimento de um sistema Laravel para um projeto de reflo
   <a href="https://github.com/AyrtonBorges?tab=repositories">Explore meus repositórios públicos</a>
 </p>
 
+### 🛠️ DevOps Tooling
+
+Templates de Docker Compose, pipelines Jenkins e GitHub Actions, além de práticas de segurança para aplicações Node.js e Laravel, incluindo Helmet, BCrypt e configuração de headers.
+
+<!-- G3E — Labs (IoT & 3D): projetos com ESP32/Arduino, APIs Node para imagens e automação, design e impressão 3D. Seção mantida como opcional, conforme o README original. -->
+
 ## Formação
 
 | Formação | Instituição | Período |
@@ -153,8 +198,14 @@ Participação no desenvolvimento de um sistema Laravel para um projeto de reflo
 
 </details>
 
-## Estudos e interesses
+## 📌 Roadmap e aprendizados recentes
 
+- Segurança web: CSP, headers, autenticação e OWASP Top 10.
+- Testes com Dusk, Jest e PHPUnit e estudos de observabilidade.
+- React Native/Expo: sincronização de dados e cache offline.
+- Lean/Agile: Scrum, Kanban, Scrumban e Design de Produto, incluindo métricas AARRR e NSM.
+- Leituras: *Lean Startup*, *Blue Ocean Strategy*, *Hooked* e *Crossing the Chasm*.
+- IoT, eletrônica e prototipagem.
 - Automação de infraestrutura, segurança de acesso e evolução de pipelines de entrega.
 - Integrações e automações com **n8n** e aplicações de IA em fluxos de trabalho.
 - Arquitetura e qualidade de software, com atenção à manutenção e operação das aplicações.
@@ -169,3 +220,20 @@ Tenho interesse em projetos de backend, plataformas SaaS e automação de infrae
   <a href="https://ayrtonborges.github.io/Meu-Portfolio/"><strong>Portfólio</strong></a> ·
   <a href="https://www.linkedin.com/in/ayrton-borges-620aa1168/"><strong>LinkedIn</strong></a>
 </p>
+
+
+<details>
+  <summary>⚙️ Recursos opcionais do perfil</summary>
+
+- **Métricas:** os cards de estatísticas, troféus, sequência de contribuições e atividade usam serviços externos. Se algum não carregar, confira o provedor e seus limites.
+- **Snake:** o trecho comentado na seção de métricas pode ser ativado após configurar a [GitHub Action do Platane/snk](https://github.com/Platane/snk).
+- **WakaTime:** configure a integração e acrescente os marcadores abaixo na posição desejada:
+
+```md
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+```
+
+- **Cards de repositórios:** podem ser adicionados com o GitHub Readme Stats após escolher os repositórios públicos que deseja destacar. [Documentação](https://github.com/anuraghazra/github-readme-stats).
+
+</details>
